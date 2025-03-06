@@ -42,7 +42,7 @@ int  main()
     scanf("%f", &pib1);
 
     printf("Digite o número de pontos turísticos da cidade: \n");
-    scanf("%i", pontos_turisticos1);
+    scanf("%i", &pontos_turisticos1);
 
     //Detalhes da Primeira Carta:
 
